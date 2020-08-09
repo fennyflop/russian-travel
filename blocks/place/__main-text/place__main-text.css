@@ -1,0 +1,11 @@
+.place__main-text{
+    width: 50.20746887966805%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+@media screen and (max-width: 768px) {
+    .place__main-text{
+        width: 100%;
+    }
+}
