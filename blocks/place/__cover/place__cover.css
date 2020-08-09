@@ -5,7 +5,7 @@
 @media screen and (max-width: 1279px) {
     .place__cover{
         max-width: 440px;
-        margin-right;: 32px
+        margin-right: 32px;
     }
 }
 @media screen and (max-width: 1023px) {
@@ -19,6 +19,5 @@
     .place__cover{
         width: 100%;
         margin-right: 0;
-
     }
 }
