@@ -1,4 +1,5 @@
 .cover__main-text{
     z-index: 5;
     position: relative;
+    max-width: 560px;
 }
