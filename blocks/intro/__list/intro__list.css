@@ -9,7 +9,7 @@
     width: 690px;
 }
 .intro__list span {
-    font-weight: bolder;
+    font-weight: bold;
 }
 @media screen and (max-width: 767px) {
     .intro__list{

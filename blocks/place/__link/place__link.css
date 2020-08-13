@@ -12,7 +12,7 @@
     opacity: 0.8;
     transition: opacity ease 1s;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .place__link{
         display: none;
     }
