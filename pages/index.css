@@ -38,3 +38,5 @@
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__main-text/cover__main-text.css);
 @import url(../blocks/lead/__figure/lead__figure.css);
+@import url(../blocks/intro/__list-text/intro__list-text.css);
+@import url(../blocks/intro/__list-highlight/intro__list-highlight.css);
